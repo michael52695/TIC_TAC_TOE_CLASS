@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1358827396 source:c:\users\daniel\desktop\cpp\tictactoeclass\game.cpp
+	"game.h"
+	"board.h"
+	<iostream>
+	<string>
+
+1358825769 c:\users\daniel\desktop\cpp\tictactoeclass\game.h
+	"board.h"
+	"player.h"
+	<string>
+
+1358825224 c:\users\daniel\desktop\cpp\tictactoeclass\board.h
+	<string>
+
+1358504529 c:\users\daniel\desktop\cpp\tictactoeclass\player.h
+	<string>
+
+1358491294 source:c:\users\daniel\desktop\cpp\tictactoeclass\main.cpp
+	<iostream>
+	"player.h"
+	"board.h"
+	"game.h"
+
+1358827165 source:c:\users\daniel\desktop\cpp\tictactoeclass\player.cpp
+	"player.h"
+	<iostream>
+	<math.h>
+
+1358826495 source:c:\users\daniel\desktop\cpp\tictactoeclass\board.cpp
+	"board.h"
+	<iostream>
+	<cstdlib>
+
